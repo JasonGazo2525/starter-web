@@ -1,7 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM jason
+
+# TEAM Blake - this is now done on master whats up lol
 
     <name> -- <role> -- <twitter>
 
